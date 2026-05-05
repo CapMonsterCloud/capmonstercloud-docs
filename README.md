@@ -4,7 +4,7 @@
 
 # CapMonster Cloud Docs
 
-Source repository for the public developer documentation at [docs.capmonster.cloud](https://docs.capmonster.cloud/).
+Source repository for the public developer documentation at [docs.capmonster.cloud](https://docs.capmonster.cloud/?utm_source=github&utm_campaign=cmcrep).
 
 If you want to use the API, start with the published docs site. Use this repository when you want to contribute to the docs or run the site locally.
 
